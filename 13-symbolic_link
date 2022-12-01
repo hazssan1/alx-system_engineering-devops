@@ -1,0 +1,2 @@
+#!/bin/bash
+dln -s /bin/ls --ls--
