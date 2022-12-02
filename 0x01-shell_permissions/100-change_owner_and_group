@@ -1,2 +1,2 @@
 #!/bin/bash
-vicent betty:staff *
+ chown  vicent:stafff *
